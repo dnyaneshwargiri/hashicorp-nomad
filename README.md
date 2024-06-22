@@ -17,3 +17,5 @@ For detailed commands refer `commands` file.
 
 
 ![Nomad Web UI](https://github.com/dnyaneshwargiri/hashicorp-nomad/blob/main/screenshots/1.png)
+![Consul Web UI](https://github.com/dnyaneshwargiri/hashicorp-nomad/blob/main/screenshots/2.png)
+![NodeJS App](https://github.com/dnyaneshwargiri/hashicorp-nomad/blob/main/screenshots/3.png)
