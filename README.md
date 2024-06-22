@@ -13,8 +13,7 @@ Verify if node js application is running successfully via Nomad
 
 `https://localhost:3000`
 
-For detailed commands refer [a link](https://github.com/dnyaneshwargiri/hashicorp-nomad/blob/main/commands)
- `commands` file.
+For detailed commands refer [`commands`](https://github.com/dnyaneshwargiri/hashicorp-nomad/blob/main/commands) file.
 
 
 ![Nomad Web UI](https://github.com/dnyaneshwargiri/hashicorp-nomad/blob/main/screenshots/1.png)
